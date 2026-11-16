@@ -62,24 +62,6 @@
       "note": "优秀论文"
     },
     {
-      "title": "A Failed Request Is Not a Refund: Budget Recovery for Web3 Agent Payments over HTTP 402",
-      "authors": "Haowen Zhang, Bin Wang, Shaohua Liang, Luheng Yang, Peizhen Li, Xiaoting Lyu, Wei Wang",
-      "venue": "投稿至 The ACM Web Conference 2027 (WWW 2027)",
-      "year": "2027",
-      "status": "review",
-      "url": "",
-      "note": "第一作者"
-    },
-    {
-      "title": "When Revoke Becomes Approve: Auditing Amount-Unbound ERC-20 Delegations in Smart Accounts",
-      "authors": "Yiming Dou, Haowen Zhang, Xiaoqiang Zhu, Xiaohan Yuan",
-      "venue": "投稿至 IEEE Symposium on Security and Privacy 2027 (S&P 2027)",
-      "year": "2027",
-      "status": "review",
-      "url": "",
-      "note": ""
-    },
-    {
       "title": "Are Project Claims Really Enforced? Checking Documentation-Code Consistency in Smart Contracts",
       "authors": "B. Wang, Z. Jiang, H. Zhang, W. Wang* et al.",
       "venue": "IEEE TDSC",
