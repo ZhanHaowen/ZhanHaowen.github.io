@@ -20,8 +20,8 @@
       "description": "关注区块链基础设施、分布式账本与可信交易，以及区块出块流水线的优化。"
     },
     {
-      "title": "智能合约安全",
-      "description": "研究智能合约的项目声明与代码实现一致性，检查文档中的安全承诺是否得到执行。"
+      "title": "Agent 支付安全",
+      "description": "关注智能体自主链上支付安全，研究多步执行中的授权约束与预算控制、付款与交付证据绑定及跨协议支付状态一致性，探索异常后的预算恢复、退款与权限撤销机制。"
     },
     {
       "title": "安全聚合与可信计算",
@@ -85,7 +85,7 @@
       "venue": "投稿至 The ACM Web Conference 2027 (WWW 2027)",
       "year": "2027",
       "status": "review",
-      "url": "https://openreview.net/forum?id=Of7BHwtbgc",
+      "url": "",
       "note": ""
     },
     {
@@ -96,15 +96,6 @@
       "status": "review",
       "url": "",
       "note": "在审"
-    },
-    {
-      "title": "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation",
-      "authors": "H. Zhang, Y. Lin, X. Zhu* et al.",
-      "venue": "SCIS",
-      "year": "2026",
-      "status": "review",
-      "url": "",
-      "note": "第一作者 · 在审"
     },
     {
       "title": "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案",
